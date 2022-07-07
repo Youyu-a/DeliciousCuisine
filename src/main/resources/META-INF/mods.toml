@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License v3.0"
+
+[[mods]]
+modId="delicious_cuisine"
+version="${file.jarVersion}"
+displayName="Delicious Cuisine"
+logoFile="delicious_cuisine.png"
+credits="Everyone of Team"
+authors="H"
+description='''This is a food mod.'''
+
+[[dependencies.examplemod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
