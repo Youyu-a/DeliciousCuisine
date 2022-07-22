@@ -1,2 +1,0 @@
-# 美味佳肴 DeliciousCuisine
-这是一个美食模组，我们致力于还原出更多奇奇怪怪的美食，来丰富Minecraft中的食物系统
